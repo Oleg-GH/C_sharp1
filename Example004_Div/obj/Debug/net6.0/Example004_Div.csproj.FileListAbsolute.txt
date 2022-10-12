@@ -1,0 +1,15 @@
+/home/oleg/Desktop/Learning1/Example004_Div/bin/Debug/net6.0/Example004_Div
+/home/oleg/Desktop/Learning1/Example004_Div/bin/Debug/net6.0/Example004_Div.deps.json
+/home/oleg/Desktop/Learning1/Example004_Div/bin/Debug/net6.0/Example004_Div.runtimeconfig.json
+/home/oleg/Desktop/Learning1/Example004_Div/bin/Debug/net6.0/Example004_Div.dll
+/home/oleg/Desktop/Learning1/Example004_Div/bin/Debug/net6.0/ref/Example004_Div.dll
+/home/oleg/Desktop/Learning1/Example004_Div/bin/Debug/net6.0/Example004_Div.pdb
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.AssemblyReference.cache
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfoInputs.cache
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.AssemblyInfo.cs
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.csproj.CoreCompileInputs.cache
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.dll
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/ref/Example004_Div.dll
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.pdb
+/home/oleg/Desktop/Learning1/Example004_Div/obj/Debug/net6.0/Example004_Div.genruntimeconfig.cache
